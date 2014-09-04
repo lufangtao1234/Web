@@ -10,11 +10,17 @@ namespace PartyInvites.Controllers
     {
         //
         // GET: /Home/
-
-        public string Index()
+        public ViewResult Index()
         {
-            return "Hello,ASP.NET MVC3 !";
+            int hour = DateTime.Now.Hour;
+            ViewBag.Greeting = hour < 12 ? "Good morning" : "Good afternoon";
+            return View();
         }
+        //public string Index()
+        //{
+        //    return "Hello,ASP.NET MVC3 !";
+        //}
+
 
     }
 }

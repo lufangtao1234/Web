@@ -37,6 +37,5 @@ E:\Project\Web\Web\PartyInvites\PartyInvites\bin\System.Web.Razor.xml
 E:\Project\Web\Web\PartyInvites\PartyInvites\bin\System.Web.WebPages.xml
 E:\Project\Web\Web\PartyInvites\PartyInvites\bin\System.Web.WebPages.Deployment.xml
 E:\Project\Web\Web\PartyInvites\PartyInvites\bin\System.Web.WebPages.Razor.xml
-E:\Project\Web\Web\PartyInvites\PartyInvites\obj\Debug\PartyInvites.csprojResolveAssemblyReference.cache
 E:\Project\Web\Web\PartyInvites\PartyInvites\obj\Debug\PartyInvites.dll
 E:\Project\Web\Web\PartyInvites\PartyInvites\obj\Debug\PartyInvites.pdb
